@@ -13,3 +13,8 @@ cargo run add <task>
 ```
 cargo run list
 ```
+
+- Remove **one** task
+```
+cargo run remove <index>
+```
